@@ -1,3 +1,4 @@
 nombre="virginia"
 apellido="cimino"
-print(f"mi nombre es nombre{nombre} y mi apellido es {apellido}")
+materia="programacion 1"
+print(f"mi nombre es nombre{nombre} y mi apellido es {apellido} dicto {materia}")
